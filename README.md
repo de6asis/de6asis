@@ -1,12 +1,13 @@
 <!-- Typing SVG Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Debasis+Ruidas+%F0%9F%91%8B;Full-Stack+Developer+%7C+ML+Enthusiast;Building+Scalable+Web+%26+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Debasis+%F0%9F%91%8B;" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  Final-year BCA student passionate about building practical full-stack web applications, automated data pipelines, and computer vision tools.
+  🎓 Final-year BCA student building <b>data-driven web applications</b>, <b>data analysis solutions</b>, and <b>machine learning models & automated pipelines</b>.<br>
+  Bridging analytics, machine learning, and web development to turn raw data into actionable insights and working software.
 </p>
 
 <p align="center">
