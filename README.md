@@ -26,8 +26,8 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -49,20 +49,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Learnify](https://github.com/de6asis)** | Web-based learning resource aggregator featuring an integrated Gemini AI chatbot assistant. | `React`, `Tailwind CSS`, `Gemini API`, `Vercel` |
-| **[AI Spend Audit](https://github.com/de6asis)** | Full-stack dashboard for tracking, analyzing, and comparing AI tool subscription expenses. | `MongoDB`, `Express`, `React`, `Node.js` |
 | **[Agentic Invoice Extractor](https://github.com/de6asis)** | Automated data extraction pipeline parsing unstructured email invoices into normalized SQLite tables. | `Python`, `Gemini API`, `Pydantic`, `SQLite` |
 | **[Real-Time Face & Gender Detection](https://github.com/de6asis)** | Live webcam computer vision system detecting faces and classifying gender using deep learning models. | `Python`, `OpenCV`, `Caffe` |
+| **[Learnify](https://github.com/de6asis)** | Web-based learning resource aggregator featuring an integrated Gemini AI chatbot assistant. | `React`, `Tailwind CSS`, `Gemini API`, `Vercel` |
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=de6asis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de6asis&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=de6asis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
